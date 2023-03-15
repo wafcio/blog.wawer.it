@@ -1,10 +1,10 @@
 # Site settings
-title: Wawer.IT
+title: Wawer.IT Blog
 email: krzysztof@wawer.it
 description: > # this means to ignore newlines until "baseurl:"
   Helping with cleaning up legacy code and improving development process.
-domain: wawer.it
-url: "https://wawer.it" # the base hostname & protocol for your site
+domain: blog.wawer.it
+url: "https://blog.wawer.it" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 twitter_username: chris_wawer
 github_username:  wafcio
